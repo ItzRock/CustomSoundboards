@@ -1,0 +1,14 @@
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\bin\Debug\netstandard2.1\CustomSoundboards.deps.json
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\bin\Debug\netstandard2.1\CustomSoundboards.dll
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\bin\Debug\netstandard2.1\CustomSoundboards.pdb
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\obj\Debug\netstandard2.1\CustomSoundboards.csproj.AssemblyReference.cache
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\obj\Debug\netstandard2.1\PluginInfo.cs
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\obj\Debug\netstandard2.1\CustomSoundboards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\obj\Debug\netstandard2.1\CustomSoundboards.AssemblyInfoInputs.cache
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\obj\Debug\netstandard2.1\CustomSoundboards.AssemblyInfo.cs
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\obj\Debug\netstandard2.1\CustomSoundboards.csproj.CoreCompileInputs.cache
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\obj\Debug\netstandard2.1\CustomSoundboards.dll
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\obj\Debug\netstandard2.1\CustomSoundboards.pdb
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\bin\Debug\netstandard2.1\Assembly-CSharp.dll
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\obj\Debug\netstandard2.1\CustomSoundboards.IgnoresAccessChecksTo.cs
+C:\Users\Antho\Desktop\CustomSoundboards\CustomSoundboards\obj\Debug\netstandard2.1\CustomSoundboards.csproj.CopyComplete
