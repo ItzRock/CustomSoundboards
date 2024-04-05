@@ -62,14 +62,4 @@ namespace CustomSoundboards.Patches {
             data.AddDataEntry(instance.selectionEntry);
         }
     }
-
-    [HarmonyPatch(typeof(SFX_Instance))]
-    public class TestSFXInstancePatch {
-        [HarmonyPrefix]
-        [HarmonyPatch("Play")]
-        public static bool Play(SFX_Instance __instance) {
-            CustomSoundBoards.Logger.LogInfo($"Playing sound: ${__instance.name}");
-            return true;
-        }
-    }
 }
